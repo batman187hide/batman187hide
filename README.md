@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**batman187hide/batman187hide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 Computer Engineering undergraduate at Dr. S. & S. S. Ghandhy Government Engineering College (DGGEC), having completed a Diploma in Computer Engineering at Tapi Diploma Engineering College. Possesses hands-on internship experience across MERN stack development, Flutter mobile app design, and real-world project delivery. Proven team leader across SSIP startup competitions, Smart India Hackathon (SIH), campus event coordination, and technical hackathons.
 
 
@@ -26,11 +19,3 @@ Computer Engineering undergraduate at Dr. S. & S. S. Ghandhy Government Engineer
 [![](https://komarev.com/ghpvc/?username=batman187hide&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
