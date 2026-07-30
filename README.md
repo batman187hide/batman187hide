@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer Engineering undergraduate at Dr. S. & S. S. Ghandhy Government Engineering College (DGGEC), having completed a Diploma in Computer Engineering at Tapi Diploma Engineering College. Possesses hands-on internship experience across MERN stack development, Flutter mobile app design, and real-world project delivery. Proven team leader across SSIP startup competitions, Smart India Hackathon (SIH), campus event coordination, and technical hackathons.
 
 
